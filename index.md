@@ -18,3 +18,6 @@ Project Name and Description: | Access
 ---|---
 Exploring the Chinook dataset using R and SQL | [GitHub](https://github.com/cmcmorse/chinook)
 Using linear regression to predict cost of health insurance | [GitHub](https://github.com/cmcmorse/regression1)
+Predicting fish weight using BoxCox transformation on linear regression | [GitHub](https://github.com/cmcmorse/regression_fish)
+Predicting employment loyalty with logistic regression | [GitHub](https://github.com/cmcmorse/logit_employment)
+Variable selection techniques used with health data | [GitHub](https://github.com/cmcmorse/variable_selection)
