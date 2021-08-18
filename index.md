@@ -21,3 +21,4 @@ Using linear regression to predict cost of health insurance | [GitHub](https://g
 Predicting fish weight using BoxCox transformation on linear regression | [GitHub](https://github.com/cmcmorse/regression_fish)
 Predicting employment loyalty with logistic regression | [GitHub](https://github.com/cmcmorse/logit_employment)
 Variable selection techniques used with health data | [GitHub](https://github.com/cmcmorse/variable_selection)
+Simulating Random Variables to mimic human behavior | <a href="https://github.com/cmcmorse/cmcmorse.github.io/blob/main/Simulating%20Random%20Variables.pdf" target="_blank">PDF</a>
