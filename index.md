@@ -86,7 +86,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
        ---|---|---
        CSE6242 | Data and Visual Analytics | JavaScript, Python, SQL, Tableau
        ISYE7406 | Data Mining and Statistical Learning | R
-       || Practicum - topic TBD | 
+       | Practicum - topic TBD | 
 
     * *Transcript and additional course details available upon request.*
 
