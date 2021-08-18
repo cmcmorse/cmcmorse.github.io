@@ -22,3 +22,97 @@ Predicting fish weight using BoxCox transformation on linear regression | [GitHu
 Predicting employment loyalty with logistic regression | [GitHub](https://github.com/cmcmorse/logit_employment)
 Variable selection techniques used with health data | [GitHub](https://github.com/cmcmorse/variable_selection)
 Simulating Random Variables to mimic human behavior | <a href="https://github.com/cmcmorse/cmcmorse.github.io/blob/main/Simulating%20Random%20Variables.pdf" target="_blank">PDF</a>
+
+<br>
+
+## Work History
+
+* Physical Therapist, independent contractor: January 2019 - Present
+
+   Soma Movement and Therapeutics, Philadelphia, PA
+   * Incorporate a holistic rehabilitative experience
+   * Use studio space and community space for full functional activity return
+   * Direct-access care allows the plan of care to be created and altered as the client and therapist see fit.
+
+<br> 
+
+* Physical Therapist, Genesis Health Care: June 2014 - April 2020
+  
+   Sunspectrum Outpatient Rehabilitation
+   * Evaluated and treated patients of all ages, backgrounds, and diagnoses
+   * Incorporated varied treatment approaches necessary to restore maximum level of function with plans of care tailored to each patient's needs
+   * Sole provider at site for treatment of dizziness and headaches.
+   <p></p>
+
+   Spring Hills Assisted Living
+   * Built relationships with residents at varied activity and cognitive levels
+   * Performed clinical assessments regularly to ensure carryover with patients
+   * Responsible for changes to plans of care and maintaining consistency with treatment plans across PTAs and visiting PTs.
+   <p></p>
+
+   Vitality to You
+   * Provided individualized care in patients' homes and participated in weekly cross-disciplinary conferences
+   * Creatively modified outpatient treatment techniques for the home environment.
+   <p></p>
+
+<br>
+
+* Physical Therapist, Specialized Physical Therapy: August 2013 - December 2014
+   * Facilitated the treatment of diagnoses including post-concussion syndrome, vestibular disorders, and orthopedic dysfunctions
+   * Developed a unique treatment for non-traumatic headaches using a combination of manual therapy, postural retraining, and cervical stability training techniques.
+
+<br>
+
+## Education
+
+* Georgia Institute of Technology: Master of Science in Analytics. Anticipated 2022.
+   * Coursework completed (as of August, 2021):
+
+       Course Number | Course Name | Coding Language
+       ---|---|---
+       CSE6040 | Introduction ot Computing for Data Analytics | Python & SQL
+       ISYE6414 | Regression Analysis | R
+       ISYE6501 | Introduction to Analytics Modeling | R
+       ISYE6644 | Simulation and Modeling | MATLAB & R
+       MGT6203 | Data Analytics in Business | R
+       MGT8803 | Business Fundamentals for Analytics | 
+       MGT8813 | Financial Modeling | Excel
+       MGT8823 | Data Analytics for Continuous Improvement | 
+    <p></p>
+
+    * Remaining Coursework:
+       Course Number | Course Name | Coding Language
+       ---|---|---
+       CSE6242 | Data and Visual Analytics | JavaScript, Python, SQL, Tableau
+       ISYE7406 | Data Mining and Statistical Learning | R
+       || Practicum - topic TBD | 
+
+    * *Transcript and additional course details available upon request.*
+
+<br>
+
+* University of the Sciences, Philadelphia: BSHS + DPT, summa cum laude, 2013.
+
+   * Capstone research project completed under the guidance of Therese E. Johnston, PT, PhD, MBA: *Local and systemic effects of lower extremity cycling with functional electrical stimulation in a man with chronic motor complete spinal cord injury.*
+   * Recipient of the Physical Therapy Faculty Award
+   * Alpha Chi and Alpha Lambda Delta honors fraternities in undergraduate and graduate school
+   * Undergraduate minor concentration in Mathematics.
+
+<br>
+
+## Certifications
+
+* Lean Six Sigma: Yellow Belt. May 2021. Georgia Tech Supply Chain and Logistics Institute.
+* Telehealth Facilitator Certification. September 2020. Jefferson University.
+* CPR certified through November 2021.
+* Pennsylvania Physical Therapy License: PT026792. exp December 2022.
+* Pennsylvania Physical Therapist Direct Access Authorization: DAPT004232. exp December 2022.
+* New Jersey Physical Therapist License: 40QA01513600. exp January 2022.
+
+<br><br>
+
+Please click <a href="https://github.com/cmcmorse/cmcmorse.github.io/blob/main/Resume.pdf" target="_blank">here</a> for my resume in .pdf form.
+
+All questions and requests for additional information can be directed to me at cmorse114@gmail.com.
+
+Thank you so much for taking the time to get to know me!
