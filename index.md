@@ -81,6 +81,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
     <p></p>
 
     * Remaining Coursework:
+    
        Course Number | Course Name | Coding Language
        ---|---|---
        CSE6242 | Data and Visual Analytics | JavaScript, Python, SQL, Tableau
