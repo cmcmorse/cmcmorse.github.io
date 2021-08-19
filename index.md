@@ -3,10 +3,15 @@ layout: default
 ---
 ![picture of me](https://user-images.githubusercontent.com/67297242/129950181-7a3ab921-8161-41c8-b0cf-bf73238c7a36.jpg)
 
-*TOC {:toc}
+# Table of Conents
+1. [Introduction](#intro)
+2. [Projects](#projects)
+3. [Employment History](#work)
+4. [Education](#education)
+5. [Certifications](#certs)
 
 
-## Who I am and how I got here: 
+# Who I am and how I got here: <a name="intro"></a>
 I am a physical therapist who turned to data analytics with hopes of being a part of the advancement of care. As a physical therapist, I have worked in outpatient settings, home care, and assisted livings in the South Jersey and Philadelphia area. Treatment specialties included treating headaches and dizziness as well as manual therapy techniques for various orthopedic conditions. While watching my patients move with greater ease and less pain has been incredibly rewarding, I wanted to be able to make an impact on a larger scale. 
 
 When the COVID-19 pandemic forced my clinics to drastically downsize, I suddenly had time to pursue that career shift. Georgia Tech offered me the opportunity to study concepts in computing, business, and analytics through their Master of Science in Analytics program and I have truly learned so much since starting this Master's degree. I chose this program specifically for its combination of business, statistics, and computing as I believe a multifaceted approach is necessary when creating successful solutions, especially in the healthcare field. Concepts covered include programming languages, regression analysis, machine learning, and management strategies. Many of these topics are on display in this portfolio for your viewing pleasure.
@@ -15,7 +20,7 @@ If you have any questions about information you find here, please do not hesitat
 
 <br>
 
-## Projects and assignments available for view:
+# Projects and assignments available for view: <a name="projects"></a>
 
 Project Name and Description: | Access
 ---|---
@@ -28,7 +33,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 <br>
 
-## Work History
+# Work History <a name="work"></a>
 
 * Physical Therapist, independent contractor: January 2019 - Present
 
@@ -66,9 +71,9 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 <br>
 
-## Education
+# Education <a name="education"></a>
 
-* Georgia Institute of Technology: Master of Science in Analytics. Anticipated 2022.
+* **Georgia Institute of Technology**: Master of Science in Analytics. Anticipated 2022.
    * Coursework completed (as of August, 2021):
 
        Course Number | Course Name | Coding Language
@@ -95,7 +100,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 <br>
 
-* University of the Sciences, Philadelphia: BSHS + DPT, summa cum laude, 2013.
+* **University of the Sciences in Philadelphia**: BSHS + DPT, summa cum laude, 2013.
 
    * Capstone research project completed under the guidance of Therese E. Johnston, PT, PhD, MBA: *Local and systemic effects of lower extremity cycling with functional electrical stimulation in a man with chronic motor complete spinal cord injury.*
    * Recipient of the Physical Therapy Faculty Award
@@ -104,7 +109,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 <br>
 
-## Certifications
+# Certifications <a name="certs"></a>
 
 * Lean Six Sigma: Yellow Belt. May 2021. Georgia Tech Supply Chain and Logistics Institute.
 * Telehealth Facilitator Certification. September 2020. Jefferson University.
