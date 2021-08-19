@@ -3,12 +3,7 @@ layout: default
 ---
 ![picture of me](https://user-images.githubusercontent.com/67297242/129950181-7a3ab921-8161-41c8-b0cf-bf73238c7a36.jpg)
 
-# Table of Contents
-1. [Intro](#Who-I-am-and-how-I-got-here:)
-2. [Projects](#Projects-and-assignments-available-for-view:)
-3. [Work History](#Work-History)
-4. [Education](#Education)
-5. [Certifications](#Certifications)
+*TOC {:toc}
 
 
 ## Who I am and how I got here: 
