@@ -74,7 +74,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 # Education <a name="education"></a>
 
-* **Georgia Institute of Technology**: Master of Science in Analytics. Anticipated 2022.
+* **Georgia Institute of Technology**: Master of Science in Analytics, anticipated 2022.
    * Coursework completed (as of August, 2021):
 
        Course Number | Course Name | Coding Language
