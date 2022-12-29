@@ -74,28 +74,22 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 # Education <a name="education"></a>
 
-* **Georgia Institute of Technology**: Master of Science in Analytics, anticipated 2022.
-   * Coursework completed (as of August, 2021):
+* **Georgia Institute of Technology**: Master of Science in Analytics, 2022.
+   * Coursework:
 
        Course Number | Course Name | Coding Language
        ---|---|---
        CSE6040 | Introduction ot Computing for Data Analytics | Python & SQL
+       CSE6242 | Data and Visual Analytics | JavaScript, Python, SQL, Tableau
        ISYE6414 | Regression Analysis | R
        ISYE6501 | Introduction to Analytics Modeling | R
        ISYE6644 | Simulation and Modeling | MATLAB & R
+       ISYE7406 | Data Mining and Statistical Learning | R
        MGT6203 | Data Analytics in Business | R
        MGT8803 | Business Fundamentals for Analytics | 
        MGT8813 | Financial Modeling | Excel
        MGT8823 | Data Analytics for Continuous Improvement | 
-    <p></p>
-
-    * Remaining Coursework:
-    
-       Course Number | Course Name | Coding Language
-       ---|---|---
-       CSE6242 | Data and Visual Analytics | JavaScript, Python, SQL, Tableau
-       ISYE7406 | Data Mining and Statistical Learning | R
-       | Practicum - topic TBD | 
+       | Practicum: EmBark - Canine genetics | R
 
     * *Transcript and additional course details available upon request.*
 
@@ -114,10 +108,9 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 * Lean Six Sigma: Yellow Belt. May 2021. Georgia Tech Supply Chain and Logistics Institute.
 * Telehealth Facilitator Certification. September 2020. Jefferson University.
-* Pennsylvania Physical Therapy License: PT026792. exp December 2022.
-* Pennsylvania Physical Therapist Direct Access Authorization: DAPT004232. exp December 2022.
+* Pennsylvania Physical Therapy License: PT026792. exp December 2024.
+* Pennsylvania Physical Therapist Direct Access Authorization: DAPT004232. exp December 2024.
 * New Jersey Physical Therapist License: 40QA01513600. exp January 2022.
-* CPR certified through November 2021.
 
 <br><br>
 
