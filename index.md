@@ -99,7 +99,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
        MGT8803 | Business Fundamentals for Analytics | 
        MGT8813 | Financial Modeling | Excel
        MGT8823 | Data Analytics for Continuous Improvement | 
-        | Practicum: EmBark - Canine genetics | R
+         | Practicum: EmBark - Canine genetics | R
 
     * *Transcript and additional course details available upon request.*
 
