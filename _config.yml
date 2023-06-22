@@ -3,7 +3,6 @@ description: About me and my professional history from physical therapist to dat
 
 theme: jekyll-theme-modernist
 markdown: kramdown
-github_repo_url: cmcmorse.github.io
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
