@@ -99,13 +99,13 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
        MGT8803 | Business Fundamentals for Analytics | 
        MGT8813 | Financial Modeling | Excel
        MGT8823 | Data Analytics for Continuous Improvement | 
-       | Practicum: EmBark - Canine genetics | R
+        | Practicum: EmBark - Canine genetics | R
 
     * *Transcript and additional course details available upon request.*
 
 <br>
 
-* **University of the Sciences in Philadelphia**: BSHS + DPT, summa cum laude, 2013.
+* **University of the Sciences in Philadelphia**: Doctorate in Physical Therapy + Bachelor of Science in Health Sciences, summa cum laude, 2013.
 
    * Capstone research project completed under the guidance of Therese E. Johnston, PT, PhD, MBA: *Local and systemic effects of lower extremity cycling with functional electrical stimulation in a man with chronic motor complete spinal cord injury.*
    * Recipient of the Physical Therapy Faculty Award
@@ -120,7 +120,7 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 * Telehealth Facilitator Certification. September 2020. Jefferson University.
 * Pennsylvania Physical Therapy License: PT026792. exp December 2024.
 * Pennsylvania Physical Therapist Direct Access Authorization: DAPT004232. exp December 2024.
-* New Jersey Physical Therapist License: 40QA01513600. exp January 2022.
+* (prior) New Jersey Physical Therapist License: 40QA01513600. exp January 2022.
 
 <br><br>
 
