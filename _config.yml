@@ -1,2 +1,14 @@
+title: <Colleen Morse Kripke Portfolio>
+description: About me and my professional history from physical therapist to data analyst.
+
 theme: jekyll-theme-modernist
 markdown: kramdown
+github_repo_url: cmcmorse.github.io
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page. (true or false)
+heading_anchors: true
+
+# Activate a "Back to top" link
+back_to_top: true
+back_to_top_text: "Return to top"
