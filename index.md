@@ -36,7 +36,17 @@ Simulating Random Variables to mimic human behavior | <a href="https://github.co
 
 # Work History <a name="work"></a>
 
-* Physical Therapist, independent contractor: January 2019 - Present
+* Data Analyst, University of Pennsylvania - Perelman School of Medicine: December 2021 - present
+
+   Penn Medicine BioBank
+   * Manage the ever-growing participant list and maintain up-to-date withdraws
+   * Coordinate with researchers to extract and clean data relevant to IRB-approved projects by translating desired data into code used in electronic health records
+   * Work closely with the PMBB governing body for creating and maintaing standards related to data privacy and research-specific goals
+   * Co-chair of the Honest Brokers committee, coordinating privacy and code efficiency efforts among data analysts 
+
+<br> 
+
+* Physical Therapist, independent contractor: January 2019 - August 2022
 
    Soma Movement and Therapeutics, Philadelphia, PA
    * Incorporate a holistic rehabilitative experience
